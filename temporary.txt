@@ -1,2 +1,2 @@
 cds add hana
-hdbtable
+hdbtable2
