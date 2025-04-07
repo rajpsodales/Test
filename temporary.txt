@@ -1,2 +1,2 @@
 cds add hana
-hdbtable 2 raj 
+hdbtable 3 raj powar 
