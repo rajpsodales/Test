@@ -1,2 +1,2 @@
 cds add hana
-hdbtable 2
+hdbtable 2 raj 
